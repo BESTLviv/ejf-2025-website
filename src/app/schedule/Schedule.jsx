@@ -44,6 +44,10 @@ return (
                 </ul>
             </div>
         </div>
+        <div className={styles.position}>
+            <img src="/images/position.svg" alt="position"></img>
+        </div>
+
     </section>
 );
 }
