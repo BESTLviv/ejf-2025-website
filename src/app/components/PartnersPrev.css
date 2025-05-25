@@ -28,12 +28,12 @@
     background: linear-gradient(0deg, #111A94 0%, #257BFC 100%);
     transform: translateY(-45%);
 }
-@media (max-width: 768px) {
+/* @media (max-width: 768px) {
    
     .pbackground {
         transform: translateY(-70%);
     }
-}
+} */
 .ptitle{
     color: #fff;
     font-size: 3rem;
@@ -70,6 +70,17 @@
             max-width: 100%;
             height: auto;
             object-fit: contain; /* Гарантує, що зображення вміщається повністю */
+        }
+        .padruha{
+            flex: 1 1 auto; 
+            height: auto;
+            padding: 10px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            max-width: 50%;
+            height: auto;
+            object-fit: contain;
         }
     
         .partners-section {

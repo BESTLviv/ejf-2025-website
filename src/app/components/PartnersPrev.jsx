@@ -15,14 +15,21 @@ export default function PartnersPrev(){
             <img src="./images/pball7.png" className="pball7" />
             <h2 className='ptitle'>Наші партнери</h2>
             <div className="partners">
-                <img src="./images/globallogic.png" className='partner'></img>
-                <img src="./images/p10.png" className='partner'></img>
-                <img src="./images/p15.png" className='partner'></img>
-                {/* <img src="./images/kpmg.png" className='partner'></img> */}
-                <img src="./images/bilfinger.png" className='partner'></img>
-                <img src="./images/renesas.png" className='partner'></img>
-
-
+                <img src="./images/globallogic.svg" className='partner'></img>
+                <img src="./images/kevych.svg" className='partner'></img>
+                <img src="./images/sitime.svg" className='partner'></img>
+                <img src="./images/kpmg.svg" className='partner'></img>
+                <img src="./images/infineon.svg" className='partner'></img>
+                <img src="./images/bilfinger.svg" className='partner'></img>
+                <img src="./images/renesas.svg" className='partner'></img>
+                <img src="./images/coax.svg" className='partner'></img>
+                <img src="./images/cockseat.svg" className='partner'></img>
+                <img src="./images/leoni.svg" className='partner'></img>
+                <img src="./images/padruha.svg" className="padruha"/>
+                <img src="./images/ukrsibbank.svg" className='partner'></img>
+                <img src="./images/pwc.svg" className='partner'></img>
+                <img src="./images/clario.svg" className='partner'></img>
+                <img src="./images/lifesaver.svg" className='partner'></img>
 
             </div>
         </section>
