@@ -9,7 +9,7 @@ return (
                 <ul>
                     <li><span style={{color: "#767676", fontWeight: "400"}}>9:45</span> <span style={{color: "#257BFC", fontSize: "21px", fontWeight: "700"}} className={styles.eventies}>Відкриття ІЯК 2025</span></li>
                     <li><span style={{color: "#767676", fontWeight: "400"}}>10:05</span><span style={{color: "#767676", fontWeight: "400"}}>Сольний виступ</span><br />
-<span style={{color: "#257BFC", fontSize: "21px", fontWeight: "700"}} className={styles.eventies}>Фінансова грамотність для студентів: як не жити від стипендії до стипендії</span> <br />
+<span style={{color: "#257BFC", fontSize: "21px", fontWeight: "700"}} className={styles.eventies}>Фінансова грамотність. Чим раніше зрозумієш, тим більше шансів стати багатим в житті</span> <br />
 <span style={{color: "#767676", fontSize: "14px",fontWeight: "400"}}>Останній капіталіст</span></li>
                     <li><span style={{color: "#767676", fontSize: "14px", fontWeight: "400"}}>11:05</span> <span style={{color: "#767676", fontSize: "14px", fontWeight: "400"}}>Перерва</span></li>
                     <li><span style={{color: "#767676", fontWeight: "400"}}>11:25</span> <span style={{color: "#257BFC", fontSize: "21px", fontWeight: "700"}} className={styles.eventies}>Інфозони + Тестові співбесіди</span></li>
